@@ -43,7 +43,7 @@ This project involves the development of a machine learning application to segme
 
 - **Segmentation by Spending Score and Annual Income:**
   
-  ![image](https://github.com/user-attachments/assets/9e71c7a5-e4ce-4955-93ec-bcf283218332)
+  ![image](https://github.com/user-attachments/assets/9e71c7a5-e4ce-4955-93ec-bcf283218332)(path/to/image =150x50)
 
 - **Segmentation by Age and Spending Score:**
   
